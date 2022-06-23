@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    titleWeb: "For my babiboo <3",
+    introTitle: 'Anh Hoàng iu dấu :*',
+    introDesc: `Đây là bức thư tình đáng iu mà tiểu tiên nữ Trần Quỳnh Trang gửi đến anh`,
+    btnIntro: 'Hun vợ 💋',
+    title: 'Yêu anh, yêu những giấc mơ 🥰',
+    desc: 'Giấc mơ dài thật dài và em không có lối raa ',
+    btnYes: 'Anh cũng rất nhớ em 🥺',
+    btnNo: 'Anh nhớ em :3',
+    question: 'Trên thế giới hơn 7 tỉ nụ cười nhưng đối với em nụ cười của anh mới là đẹp nhất <3',
+    btnReply: 'Gửi cho anh iu <3',
+    reply: 'Anh nhớ ăn uống đầy đủ đừng để đau dạ dày nhé <33333333',
+    mess: 'Anh biết mà 🥰. Anh chắc chắn sẽ làm thế 😘😘',
+    messDesc: 'Vậy anh cũng chú ý đi đứng cẩn thận đừng có ngã vào tim em nào nhee',
+    btnAccept: 'Chỉ ở trong tim em được thuii',
+    messLink: 'https://www.rd.com/wp-content/uploads/2020/12/LoveMeme6.jpg' 
