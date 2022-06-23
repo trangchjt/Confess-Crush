@@ -14,8 +14,8 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ nụ cười nhưng đối với em nụ cười của anh vẫn là đẹp nhất <3',
     btnReply: 'Gửi cho anh iu <3',
     reply: 'Anh nhớ ăn uống đầy đủ đừng để đau dạ dày <33333333',
-    mess: 'Anh biết mà 🥰. Chắc chắn anh sẽ làm thê 😘😘',
-    messDesc: 'Cố gắng lơn nheee, em sẽ ôm anh bù.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    mess: 'Anh biết mà 🥰. Chắc chắn anh sẽ làm thế 😘😘',
+    messDesc: 'Đáng iu ghê em rất thích anh.',
+    btnAccept: 'Anh vô cùng vô cùng thích em <3',
+    messLink: 'https://www.rd.com/wp-content/uploads/2020/12/LoveMeme6.jpg' 
 }
