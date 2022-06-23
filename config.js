@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "For my babyboo ❤️",
     introTitle: 'Anh Nguyễn Việt Hoàng ;*',
     introDesc: `Đây là bức thư tình đáng iu nhất trên đời mà tiểu tiên nữ Quỳnh Trang gửi đến anh`,
-    btnIntro: 'Hun vợ một cái 💋',
+    btnIntro: 'Hun vợ một cáii 💋',
     title: 'Yêu anh yêu anh yêu những giấc mơ 🥰',
     desc: 'Giấc mơ dài thật dài và em không có lối raaa ',
     btnYes: 'Anh cũng rất nhớ em 🥺',
